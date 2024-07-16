@@ -53,7 +53,6 @@ def print_file():
         options = {
             "copies": "1",
             "media": "A4",
-            "sides": "two-sided-long-edge"
         }
 
         # Send to printer
